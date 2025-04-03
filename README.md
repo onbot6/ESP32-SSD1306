@@ -5,7 +5,7 @@ A lightweight ESP32 project that displays real-time **weather updates, time, and
 ## Features  
 - **Live Weather Data** (Temperature, Humidity, Feels Like)  
 - **Last.fm Now Playing** (Latest song & artist)
-- 
+
 ## Hardware Requirements  
 - **ESP32** (e.g., DOIT ESP32DEVKIT1)  
 - **0.96" SSD1306 OLED Display** (I2C)  
