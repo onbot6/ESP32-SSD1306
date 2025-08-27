@@ -103,6 +103,6 @@ To import icons.h
 
 - Auto trims long song titles.
 - Alerts for conditions like rain/snow are shown on screen.
-- Display size: **128x64**, optimized for **0.96" OLED**.
+- Display size: **128x64**, optimized for **0.96" OLED**. _to be honest, it doesn't really matter, it'll automatically adjust ig_
 
 ---
